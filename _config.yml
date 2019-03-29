@@ -1,7 +1,7 @@
 # Site
 name: "AI 프렌즈"
 title: "AiFrenz"
-description: "멤버쉽은 Github 계정으로 Pull Request 해주세요. Merge해 드립니다. "
+description: "Github 계정으로 Pull Request 해주세요. AI프렌드에 Merge 해드립니다. "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
