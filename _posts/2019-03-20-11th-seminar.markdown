@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "AI 프렌즈 11회 학술 세미나"
+date:   2019-03-20 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190320.jpg
+---
+
+## 장소: 대덕테크비즈센터(TBC) 4층 412호   
+## 일시: 3월 20일 저녁 7시~9시
+
+
+## 발표 주제 및 발표자  
+**발표1 : 딥러닝을 이용한 Object Detection의 기본 알고리즘과 최신 연구동향 소개**  
+발표자 : 구자명(SI Analytics)  
+상세 내용  
+- Object Detection의 기본 알고리즘인 FRCNN, SSD등의 architecture 설명  
+- 최신 Object Detection 관련 기술의 연구동향은?  
+
+[발표자료1]({{ "/present_file/[20190320] Intor_Object_Detection_by_JMKoo.pdf" | absolute_url }})  
+
+
+**발표 2 : 인공지능 기반 4족 보행 로봇의 자율 학습 기법 소개**  
+발표자 : 김홍배(KARI)  
+상세 내용  
+- 최근 취리히 연방 공대에서 발표한 Model-based Reinforcement Learning을 이용한 4족 보행 로봇의 자율학습 기술에 관한 소개  
+- Robotics 기초부터 4족 보행 로봇의 kinematic, dynamics & control 기술 Study  
+[https://www.slideshare.net/ssuser06e0c5/presentations][link2]  
+
+
+
+***  
+신청링크: [https://goo.gl/GAtsdS][link1] (저녁식사 수량파악을 위해서 조사하는 것으로 신청하지 않으셔도 당일 참석하실 수 있습니다.)
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷   
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+[link1]: https://goo.gl/GAtsdS
+[link2]: https://www.slideshare.net/ssuser06e0c5/presentations  

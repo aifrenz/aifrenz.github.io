@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "AI 프렌즈 5회 학술 세미나"
+date:   2019-01-23 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190123.jpg
+---
+
+
+## 발표 주제 및 발표자  
+### 1. AI와 제어 : ㈜ 제이마플 김성필 박사  
+
+  항공우주연구원에서 비행제어분야를 담당하였고 퇴사 후 딥러닝 분야에서 활약 중이신 (주) 제이마플 김성필 박사께서  
+  기존 제어기술과 딥러닝 기반 제어기술의 차이와 실제 plant 적용 시 고려해야 할 사항에 대한 소개  
+  **주요저서** :  Kalman Filter의 이해 / Rigid body dynamics for biginners / 딥러닝 첫걸음
+  
+
+### 2. Gaussian Process의 이론과 다양한 적용사례 소개 : 한국항공우주연구원 김홍배 박사  
+
+  ML분야에서 약방의 감초 같은 존재인 GP이지만 이해가 쉽지 않은 GP의 기본적인 이론 소개와 함께  
+  Fluid Dynamics, Gesture Recognition, Optimal Control, Hyper parameter optimization, 신약 신소재 개발을 위한 optimal data sampling strategy등과 같은 적용 사례에 대한 소개  
+  [발표자료1]({{ "/present_file/1_Learning Three-dimensional Flow for Interactive Aerodynamic Design.pdf" | absolute_url }})  
+  [발표자료2]({{ "/present_file/2_Pose Estimation – Gaussian Process.pdf" | absolute_url }})  
+  [발표자료3]({{ "/present_file/3_Bayesian optimization_ LQR Tuning with GP.pdf" | absolute_url }})  
+  [발표자료4]({{ "/present_file/4_Bayesian Optimization applications.pdf" | absolute_url }})  
+
+장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)  
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷    
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+

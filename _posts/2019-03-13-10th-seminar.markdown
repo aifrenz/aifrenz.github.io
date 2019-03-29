@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "AI 프렌즈 10회 학술 세미나"
+date:   2019-03-13 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190316_2.jpeg
+---
+
+## 장소: 대덕테크비즈센터(TBC) 1층 콜라보홀
+## 일시: 3월 13일 저녁 7시~9시
+
+- 이번 학술세미나는 ETRI 최고의 이야기꾼 ETRI 이정원님의 강의가 있을 예정입니다.   
+  그리고 강의가 끝난 후 치킨과 함께 네트워킹 시간을 가질 예정입니다!!^^  
+  
+
+## 발표 주제 및 발표자  
+** 인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석(ETRI 이정원)**    
+
+알파고를 개발한 딥마인드에서 인공지능 기술과 신경과학을 어떻게 결합하고 있는지 소개한다.  
+알파고 이후의 알파고, 인공지능의 신경과학, 신경과학의 인공지능, 딥마인드의 야심, 네 파트로 구성하였다.
+
+***  
+신청링크: (추후공지) (저녁식사 수량파악을 위해서 조사하는 것으로 신청하지 않으셔도 당일 참석하실 수 있습니다.)
+신청페이지: [https://goo.gl/GAtsdS][link1]
+
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷   
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+[link1]: https://goo.gl/GAtsdS

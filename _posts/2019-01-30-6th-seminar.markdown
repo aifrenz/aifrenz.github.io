@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "AI 프렌즈 6회 학술 세미나"
+date:   2019-01-30 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190130.jpg
+---
+
+
+## 발표 주제 및 발표자  
+### 1. 딥러닝을 위한 수학 특강 (KAIST 수리과학과 황강욱 교수)  
+
+  지난 스터디에서  Gaussian Process/Bayesian Statistics/Uncertainty에 대한 내용들이 많았습니다. 
+  KAIST 수리과학과 황강욱 교수님을 모시고 머신러닝과에 관련된 수학에 대해서 특강이 있을 예정입니다.  
+  머신러닝을 위한 베이시안 통계: 기초이론, 베이시안 통계기반 머신러닝 알고리즘 소개 및 분석, MCMC  
+     [발표자료-01_BayesianStatistics_slide]({{ "/present_file/01_BayesianStatistics_slide.pdf" | absolute_url }})  
+     [발표자료-02_BayesianforML_slide]({{ "/present_file/02_BayesianforML_slide.pdf" | absolute_url }})  
+     [발표자료-03_MCMC_slide]({{ "/present_file/03_MCMC_slide.pdf" | absolute_url }})  
+
+
+### 2. Model based RL & IEC (ETRI 김귀훈 박사) 
+
+  ETRI 김귀훈 박사님께서, 요즘 핫한 주제중 하나인 Model based RL에 대해서 짧은 talk 를 준비해 주셨습니다.  
+  내용은 아래와 같습니다.
+- RL basic & RL tech tree
+- RL을 주목하는 이유
+     . 딥마인드 RL
+     . 알파고, 알파고제로, 알파제로, 알파스타 
+- model based RL vs model-less RL
+- RL의 산업적용 사례
+     . RIP, IEC 등  
+   [발표자료1]({{ "/present_file/AI프렌즈_김귀훈_발표자료_190130_v1.0.pdf" | absolute_url }})  
+
+
+장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)  
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷, 원자력연구원   
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+

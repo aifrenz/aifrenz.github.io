@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "AI 프렌즈 4회 학술 세미나"
+date:   2019-01-16 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190116.jpg
+---
+
+
+## 발표 주제:  
+**Anomaly Detection 최신 기술동향 및 실제 응용 소개 (부산대학교 기계공학과 강민국)**  
+  부산대 기계공학부에 재학중이면서 SI Analytics 인턴으로 근무중인 강민국군이 다양한 분야에서 응용되고 있는 Anomaly detection 기법에 대해 소개  
+  [발표자료1]({{ "/present_file/[AI Friends]Deep Anomaly Detection.pdf" | absolute_url }})  
+  
+**기존 Control 이론에 Data driven ML 적용 (항우연 김홍배)**  
+  실제 산업현장에서 모델링이 어려운 plant에 대하여 DL 기법을 적용하여 Model update와 mission을 수행하기 위한 optimal control policy 구하기  
+  [발표자료2]({{ "/present_file/1_Quadcopter_grey model.pdf" | absolute_url }})  
+  [발표자료3]({{ "/present_file/2_Real time optimal control using DNN.pdf" | absolute_url }})  
+ 
+
+장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)  
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷    
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+

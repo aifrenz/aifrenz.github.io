@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "AI 프렌즈 7회 학술 세미나"
+date:   2019-02-20 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190220.jpg
+---
+
+## 장소: 대전TP(테크노파크) 대강당
+## 일시: 2월 20일 저녁 7시~9시
+
+## 발표 주제 및 발표자  
+**1. Explainable or Interpretable Artificial Intelligent**  (김범수/KAIST computer science & Mathematical science,  SI-Analytics 인턴)    
+
+최근 DARPA 등에서 소요를 재기하여 활성화된 주제로 Black box로 여겨졌던 Deep Learning을 설명 가능한 기술(Explainable or Interpretable AI)로 발전시키려는 시도가 매우 활발하게 수행 중.   
+
+발표 내용 : 
+  - Introduction to Interpretability
+  - Interpreting Deep Neural Networks
+  - Evaluating Interpretation Methods
+  - How to improve Interpterpretability
+
+ [발표자료1]({{ "/present_file/Interpretable Deep Learning.pdf" | absolute_url }})  
+
+**2.  "bayesian model agnostic meta learning" 리뷰** (김민규/삼성중공업) 
+
+최근 transfer learning / Few-shot learning 등 meta-learning에 대한 연구가 활발히 진행되고 있다.(learn to learn) 이 연구들은 기 수집된 데이터를 활용하여 meta learner를 생성하고 신규로 얻어진 소수의 데이터를 통해 특정 application에 적합한 모델을 생성하는 framework입니다. 최근 인공신경망의 형태는 동일하게 가져가면서 optimization 방식을 달리 하는 Model agnostic meta learning(이하 maml) 연구가 발표된 이후 해당 모델의 효율성과 성능 때문에 각광을 받고 있다. 본 세미나에서는 maml에 대해 간략히 알아보고 해당 모델의 over fitting문제를 해결한 bayesian maml에 대해 알아보도록 한다.      
+[발표자료2]({{ "/present_file/Bayesian_MAML_PDF.pdf" | absolute_url }})    
+
+
+신청링크: [https://goo.gl/y1wNW9][link1]  
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷   
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+[link1]:        https://goo.gl/y1wNW9

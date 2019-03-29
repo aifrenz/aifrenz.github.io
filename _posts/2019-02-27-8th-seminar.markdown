@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "AI 프렌즈 8회 학술 세미나"
+date:   2019-02-27 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190227.jpg
+---
+
+## 장소: 대전TP(테크노파크) 대강당
+## 일시: 2월 27일 저녁 7시~9시
+
+## 발표 주제 및 발표자  
+**1. Inverse RL (이동민/한양대 컴퓨터공학과) (난이도 ♡♡)**   
+강화학습에서는 reward라는 요소가 굉장히 중요합니다. 왜냐하면 agent가 유일하게 학습할 수 있는 요소이기 때문입니다. 일반적으로 강화학습에서는 사람이 reward를 일일히 정해주지만, 실제로 그 reward에 따라 desirable action이 나오지 않을 수도 있습니다. 여기서 생각해볼 수 있는 것이 바로 "Expert"의 행동을 통해 reward를 찾는 것입니다. 본 발표에서는 이에 따른 6개의 논문을 소개하고, 논문들을 구현하여 실험한 과정들을 발표하고자 합니다.  
+
+ [발표자료1]({{ "/present_file/letsdoinverserl.pdf" | absolute_url }})   
+
+**2. RL 오픈소스 소개 (차금강/(주)플랜아이) (난이도 ♡♡)**  
+강화학습을 입문하시는 분들은 거의 model-free RL로 시작합니다.  
+이론적인 공부를 한 후 실습을 하게 됩니다. 많은 분들이 Reinforcement Learning을 구글에 검색하면 많은 구현체들을 볼 수 있지만 대부분의 코드가 난해하며, 설치하기 어렵고, 다양한 환경에 적용하기 어렵습니다. 그렇다고 직접 구현을 하기에는 컴퓨팅 언어(python, C, C++..)와 그 언어를 통해 많은 수학적 계산을 할 수 있는 프레임워크(tensorflow, caffe, pytorch…) 등을 공부해야 합니다. 이것을 처음 입문하시는 분들이 Model-free RL 구현을 하는데까지 많은 노력과 시간이 필요합니다. 이러한 강화학습을 입문하기 위한 진입장벽을 낮추기 위해 python과 tensorflow를 통해 Model-free RL의 대표적인 구현체들을 제공하며 어떻게 사용하는지에 대한 코드 튜토리얼을 제공하는 프레임워크를 작성하였습니다.  
+이 발표에서는 간략히 Model-free RL에 대한 개념을 훑은 후 작성한 프레임워크에 대한 소개와 튜토리얼을 제공합니다.  
+  
+ [발표자료2]({{ "/present_file/Reinforcement Learning Opensource to Baseline.pdf" | absolute_url }})  
+
+
+**3. Data efficient Model based RL (항우연 김홍배) (난이도 ♡♡)**  
+Model-based Reinforcement Learning  
+RL은 크게 Model free & Model based 로 나뉘어지는데 MF의 경우 수많은 Trial을 통하여 특정 임무에 대한 Optimal control policy를 찾아내는 방법으로 실제 로봇이나 산업설비에 적용하는 것은 현실적으로 불가능합니다.  
+Model based의 경우에는 기존의 optimal control 이론에 바탕을 둔 접근방법으로 Plant의 model을 black box 또는 좀 더 효율적인 접근방법으로 동일 model에 대한 이전 다른 tasks의 데이터 또는 아주 간단한 model을 이용한 simulation등을 통해 얻어진 prior information을 이용하여 Dynamic programming 등을 이용해서 Optimal control policy를 구하는 방법입니다.  
+초기모델이 정확하지 않더라도 plant에 대한 trial data를 이용하여 model을 update해서 비교적 적은 trial을 통해 Optimal control policy를 구할 수 있습니다.  
+본 발표에서는 model based RL의 최신 연구동향 기술을 소개하고자 합니다.   
+  
+[발표자료3]({{ "/present_file/Model based RL_simple.pdf" | absolute_url }})  
+
+
+신청링크: [https://goo.gl/y1wNW9][link1]
+
+
+***  
+
+후원: 연구개발특구진흥재단, 대덕넷   
+문의: ai.friends.seminar@gmail.com,
+[Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
+[페이스북 홈페이지][facebook_ai]
+
+[kakao_ai]:     https://open.kakao.com/o/ggewxi2
+[facebook_ai]:  https://www.facebook.com/groups/aifriend/
+[link1]: https://goo.gl/y1wNW9
