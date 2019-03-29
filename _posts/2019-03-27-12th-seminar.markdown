@@ -4,7 +4,7 @@ title:  "AI 프렌즈 12회 학술 세미나"
 date:   2019-03-27 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/seminar.jpg
+image: /images/20190327.jpg
 ---
 
 
