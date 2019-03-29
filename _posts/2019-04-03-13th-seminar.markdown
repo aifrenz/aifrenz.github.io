@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI 프렌즈 13회 학술 세미나"
-date:   2019-03-20 19:00:00
+date:   2019-04-03 19:00:00
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190403_pre.png
