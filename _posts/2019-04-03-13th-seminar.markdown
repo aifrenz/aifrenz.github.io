@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "AI 프렌즈 13회 학술 세미나"
+where: "대전 TBC 1층 콜라보홀"
+when: "2019. 3. 27. (수) 오후 7시-9시
 date:   2019-04-03 19:00:00
 categories: ai-friends update
 tags: ai-friends update
