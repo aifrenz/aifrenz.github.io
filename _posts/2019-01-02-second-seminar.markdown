@@ -2,6 +2,10 @@
 layout: post
 title:  "AI 프렌즈 2회 학술 세미나"
 date:   2019-01-02 19:00:00
+when: 2019. 1. 2. (수) 오후 7~9시
+where: 대전 TBC 4층 대회의실 (412호)
+who: 유용균(KAERI), 최우성(KEPCO)
+what: 최적설계/전산해석/원자력 분야의 딥러닝 적용 가능성(유용균), 기계/재료 분야에서의 베이지안 및 딥러닝 기법 활용 사례(최우성)
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190102.jpg
