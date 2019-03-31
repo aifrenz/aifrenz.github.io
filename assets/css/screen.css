@@ -118,7 +118,7 @@ License: https://www.wowthemes.net/freebies-license/
      font-weight:700;
      line-height: 1.25;
 }
- .listfeaturedtag h3.card-text,.listrecent h3.card-text {
+ .listfeaturedtag h4.card-info,.listrecent h4.card-info {
      font-size:1.1rem;
      font-weight:400;
      line-height: 1.25;
