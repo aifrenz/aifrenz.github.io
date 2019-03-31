@@ -2,13 +2,17 @@
 layout: post
 title:  "AI 프렌즈 8회 학술 세미나"
 date:   2019-02-27 19:00:00
+when: 2019. 2. 27. (수) 오후 7~9시
+where: 대전 테크노파크 대강당
+who: 이동민(한양대 컴퓨터공학과)
+what: Inverse RL
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190227.jpg
 ---
 
-## 장소: 대전TP(테크노파크) 대강당
-## 일시: 2월 27일 저녁 7시~9시
+- 장소: 대전TP(테크노파크) 대강당
+- 일시: 2019년 2월 27일 저녁 7시~9시
 
 ## 발표 주제 및 발표자  
 **1. Inverse RL (이동민/한양대 컴퓨터공학과) (난이도 ♡♡)**   
