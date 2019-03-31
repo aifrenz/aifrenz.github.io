@@ -2,6 +2,10 @@
 layout: post
 title:  "AI 프렌즈 4회 학술 세미나"
 date:   2019-01-16 19:00:00
+when: 2019. 1. 16. (수) 오후 7~9시
+where: 대전 TBC 4층 대회의실 (412호)
+who: 강민국(부산대 기계공학과), 김홍배(한국항공우주연구원)
+what: Anomaly Deteciton(강민국), 기존 Control 이론에 Data Driven ML 적용(김홍배)
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190116.jpg
