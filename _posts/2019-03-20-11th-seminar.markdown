@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "AI 프렌즈 11회 학술 세미나"
+when: 2019. 3. 20. (수) 오후 7시-9시
+where: 대전 TBC 4층 412호
+who: 구자명(SI Analytics)
+what: 딥러닝을 이용한 Object Detection
 date:   2019-03-20 19:00:00
 categories: ai-friends update
 tags: ai-friends update
@@ -8,7 +12,7 @@ image: /images/20190320.jpg
 ---
 
 ## 장소: 대덕테크비즈센터(TBC) 4층 412호   
-## 일시: 3월 20일 저녁 7시~9시
+## 일시: 2019년 3월 20일 저녁 7시~9시
 
 
 ## 발표 주제 및 발표자  
