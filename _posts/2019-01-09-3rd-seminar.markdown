@@ -2,6 +2,10 @@
 layout: post
 title:  "AI 프렌즈 3회 학술 세미나"
 date:   2019-01-09 19:00:00
+when: 2019. 1. 9. (수) 오후 7~9시
+where: 대전 TBC 4층 대회의실 (412호)
+who: 최정렬(SIA)
+what: 베이지안 데이터 분석
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190109.jpg
