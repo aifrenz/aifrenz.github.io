@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "AI 프렌즈 9회 학술 세미나"
 date:   2019-03-06 19:00:00
+title:  "AI 프렌즈 9회 학술 세미나"
+when: 2019. 3. 6. (수) 오후 7~9시
+where: 대전 TBC 4층 412호
+who: 박준영(KAIST 산업공학과)
+what: Physics Induced Graph Neural Network (PGNN) for estimating wind farm power generations
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190306.jpg
 ---
 
 ## 장소: 대덕테크비즈센터(TBC) 4층 대회의실 (412호)
-## 일시: 3월 6일 저녁 7시~9시
+## 일시: 2019년 3월 6일 저녁 7시~9시
 
 ## 발표 주제 및 발표자  
 **1. Physics Induced Graph Neural Network (PGNN) for estimating wind farm power generations (박준영/KAIST 산업공학과 박사과정)**   
