@@ -2,7 +2,7 @@
 layout: post
 title:  "AI 프렌즈 12회 학술 세미나"
 where: "대전 TBC 1층 콜라보홀"
-when: "2019. 3. 27. (수) 오후 7시-9시
+when: "2019. 3. 27. (수) 오후 7시-9시"
 what: ["연구개발특구진흥재단 소개 (임문택)", "Embedded AI 소개와 사회적 약자를 위한 AI 운동 가능성 (ETRI 백동명)"]
 date:   2019-03-27 19:00:00
 categories: ai-friends update
