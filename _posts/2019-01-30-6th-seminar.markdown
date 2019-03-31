@@ -2,6 +2,10 @@
 layout: post
 title:  "AI 프렌즈 6회 학술 세미나"
 date:   2019-01-30 19:00:00
+when: 2019. 1. 30. (수) 오후 7~9시
+where: 대전 TBC 4층 대회의실 (412호)
+who: 황강욱(KAIST 수리과학과), 김귀훈(ETRI)
+what: 딥러닝의 위한 수학 특강(황강욱), Model based RL & IEC (김귀훈)
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190130.jpg
