@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "AI 프렌즈 12회 학술 세미나"
-where: "대전 TBC 1층 콜라보홀"
 when: "2019. 3. 27. (수) 오후 7시-9시"
+where: "대전 TBC 1층 콜라보홀"
 who: ["백동명(ETRI), 임문택"]
+what: "Embedded AI"
 date:   2019-03-27 19:00:00
 categories: ai-friends update
 tags: ai-friends update
