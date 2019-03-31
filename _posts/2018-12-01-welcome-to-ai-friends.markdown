@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to AI Friends!"
 date:   2018-12-01 23:52:07
+what: AI 프렌즈 프로그램 안내
 categories: ai-friends update
 tags: ai-friends update
 featured: true
