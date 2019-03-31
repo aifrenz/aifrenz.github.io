@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "AI 프렌즈 3회 심포지엄 안내"
+title:  "AI 프렌즈 심포지엄 (3회)"
 date:   2019-02-13 15:00:00
+when: 2019. 2. 13. (수) 오후 3~6시
+where: KAIST KI빌딩 퓨전홀
+who: 장영재(KAIST), 선경호(기계연구원), 함광석(MS)
+what: 산업 인공지능(장영재), 인공지능 기반 예측진단 기술(선경호), MicroSoft AI 서비스 지원 성공사례(함광석)
 categories: ai-friends update
 tags: ai-friends update
 image: /images/3rd_sym.jpg
