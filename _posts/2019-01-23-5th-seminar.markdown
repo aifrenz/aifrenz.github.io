@@ -2,6 +2,10 @@
 layout: post
 title:  "AI 프렌즈 5회 학술 세미나"
 date:   2019-01-23 19:00:00
+when: 2019. 1. 23. (수) 오후 7~9시
+where: 대전 TBC 4층 대회의실 (412호)
+who: 김성필(제이마플), 김홍배(한국항공우주연구원)
+what: AI와 제어(김성필), Gaussian Process (김홍배)
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20190123.jpg
