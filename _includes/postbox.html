@@ -25,10 +25,21 @@
                 </div>
                 {% endif %}
             </h2>
+            {% if post.when %}
             <h3 class="card-info">일시: {{ post.when }}</h3>
+            {% endif %}
+            
+            {% if post.where %}    
             <h3 class="card-info">장소: {{ post.where }}</h3>
+            {% endif %}
+            
+            {% if post.who %}    
             <h3 class="card-info">발표: {{ post.who }}</h3>
+            {% endif %}
+            
+            {% if post.what %}    
             <h3 class="card-info">주제: {{ post.what }}</h3>
+            {% endif %}
             
             <!--
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4> -->
