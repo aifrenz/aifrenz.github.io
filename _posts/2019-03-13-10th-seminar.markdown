@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "AI 프렌즈 10회 학술 세미나"
+title:  AI 프렌즈 10회 학술 세미나
+when: 2019. 3. 13. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 이정원(ETRI)
+what: 신경과학의 인공지능적 해석
 date:   2019-03-13 19:00:00
 categories: ai-friends update
 tags: ai-friends update
@@ -8,7 +12,7 @@ image: /images/20190316_2.jpeg
 ---
 
 ## 장소: 대덕테크비즈센터(TBC) 1층 콜라보홀
-## 일시: 3월 13일 저녁 7시~9시
+## 일시: 2019년 3월 13일 저녁 7시~9시
 
 - 이번 학술세미나는 ETRI 최고의 이야기꾼 ETRI 이정원님의 강의가 있을 예정입니다.   
   그리고 강의가 끝난 후 치킨과 함께 네트워킹 시간을 가질 예정입니다!!^^  
