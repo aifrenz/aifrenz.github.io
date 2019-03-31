@@ -2,16 +2,17 @@
 layout: post
 title:  "AI 프렌즈 1회 학술 세미나"
 date:   2018-12-26 19:00:00
+when: 2018. 12. 26. (수) 오후 7~9시
+where: ETRI 융합기술연구생산센터 224호
+who: 류성옥(KAIST)
+what: Graph Neural Network & Bayesian Neural Network
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20181226.jpg
 ---
 
-발표 주제: Graph Neural Network & Bayesian Neural Network (KAIST 박사과정 류성옥)
-
-장소: ETRI 융합기술연구생산센터 중회의실 (224호)
-
-
+- 발표 주제: Graph Neural Network & Bayesian Neural Network (KAIST 박사과정 류성옥)
+- 장소: ETRI 융합기술연구생산센터 중회의실 (224호)
 
 발표자료:
 
