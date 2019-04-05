@@ -10,25 +10,25 @@ categories: ai-friends update
 tags: ai-friends update
 image: /images/20190403_pre.png
 ---
+***  
 
 [발표자료]({{ "/present_file/손글씨인식세미나_AIFriends_190403.pdf" | absolute_url }})  
 
 
-*웹에서 손글씨 인식
+*웹에서 손글씨 인식  
+http://myselph.de/neuralNet.html  
 
-http://myselph.de/neuralNet.html
+*Fully connected Neural Network  
+- 시작코드 (89.3%)  
+[https://colab.research.google.com/drive/1Py8Eme5lPx3yZ7LvgKbT-3WmGmDSW4CS][link2]  
 
-*Fully connected Neural Network
+- 마지막 코드 (98.2%) (Layer 증가, adam optimizer 변경, Dropout 추가)  
+[https://colab.research.google.com/drive/1iA_Mkt2aSxC_tJU6RrStuugTLsBet_i4][link3]  
 
-- 시작코드 (89.3%)
-[https://colab.research.google.com/drive/1Py8Eme5lPx3yZ7LvgKbT-3WmGmDSW4CS][link2]
+*Convolutional Neural Network (98.9%)  
+[https://colab.research.google.com/drive/1nWoT-jVuEs1AJBHAGKa5V4u0noLA0OrW][link4]  
 
-- 마지막 코드 (98.2%) (Layer 증가, adam optimizer 변경, Dropout 추가)
-[https://colab.research.google.com/drive/1iA_Mkt2aSxC_tJU6RrStuugTLsBet_i4][link3]
-
-*Convolutional Neural Network (98.9%)
-[https://colab.research.google.com/drive/1nWoT-jVuEs1AJBHAGKa5V4u0noLA0OrW][link4]
-
+***  
 
 * 신청 :[https://goo.gl/gpxWB9][link1] (저녁 간식 제공 식수 파악용)  
 
