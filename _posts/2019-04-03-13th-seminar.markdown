@@ -16,26 +16,30 @@ image: /images/20190403_pre.png
 
 
 *웹에서 손글씨 인식  
-http://myselph.de/neuralNet.html  
+[http://myselph.de/neuralNet.html  ][link2]  
 
 *Fully connected Neural Network  
 - 시작코드 (89.3%)  
-[https://colab.research.google.com/drive/1Py8Eme5lPx3yZ7LvgKbT-3WmGmDSW4CS][link2]  
+[https://colab.research.google.com/drive/1Py8Eme5lPx3yZ7LvgKbT-3WmGmDSW4CS][link3]  
 
 - 마지막 코드 (98.2%) (Layer 증가, adam optimizer 변경, Dropout 추가)  
-[https://colab.research.google.com/drive/1iA_Mkt2aSxC_tJU6RrStuugTLsBet_i4][link3]  
+[https://colab.research.google.com/drive/1iA_Mkt2aSxC_tJU6RrStuugTLsBet_i4][link4]  
 
 *Convolutional Neural Network (98.9%)  
-[https://colab.research.google.com/drive/1nWoT-jVuEs1AJBHAGKa5V4u0noLA0OrW][link4]  
+[https://colab.research.google.com/drive/1nWoT-jVuEs1AJBHAGKa5V4u0noLA0OrW][link5]  
 
 ***  
+
+
+
 
 * 신청 :[https://goo.gl/gpxWB9][link1] (저녁 간식 제공 식수 파악용)  
 
 [link1]:https://goo.gl/gpxWB9
-[link2]:https://colab.research.google.com/drive/1Py8Eme5lPx3yZ7LvgKbT-3WmGmDSW4CS
-[link3]:https://colab.research.google.com/drive/1iA_Mkt2aSxC_tJU6RrStuugTLsBet_i4
-[link4]:https://colab.research.google.com/drive/1nWoT-jVuEs1AJBHAGKa5V4u0noLA0OrW
+[link2]:http://myselph.de/neuralNet.html
+[link3]:https://colab.research.google.com/drive/1Py8Eme5lPx3yZ7LvgKbT-3WmGmDSW4CS
+[link4]:https://colab.research.google.com/drive/1iA_Mkt2aSxC_tJU6RrStuugTLsBet_i4
+[link5]:https://colab.research.google.com/drive/1nWoT-jVuEs1AJBHAGKa5V4u0noLA0OrW
 
 - 모임 : 4월 AI 프렌즈 학술 세미나
 - 일시 : 2019년 4월 03일(13회) 수요일 19:00 ~ 21:00
