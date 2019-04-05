@@ -29,7 +29,7 @@ image: /images/20190405_pre.png
   #4.17 BeeAI(비아이) 인공지능 프레임워크 소개 및 다양한 적용 사례(김귀훈/안후영)  
   #4.24 목소리 변경 인공지능 Tacotron 소개(조희철)  
 
-- 후원 : 연구개발특구진흥재단
-- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)
-             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
 - 사이트 : https://aifrenz.github.io/ 
