@@ -12,6 +12,8 @@ image: /images/20190405_pre.png
 ---
 ***  
 
+[발표자료1]({{ "/present_file/20190410_AI_프렌즈_캐글세미나_이유한.pdf" | absolute_url }})  
+[발표자료2]({{ "/present_file/커널커리큘럼.pdf" | absolute_url }})  
 
 * 신청 :[https://goo.gl/gpxWB9][link1] (저녁 간식 제공 식수 파악용)  
 
