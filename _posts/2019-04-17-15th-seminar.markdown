@@ -1,0 +1,37 @@
+---
+layout: post
+title:  AI 프렌즈 15회 학술 세미나
+when: 2019. 4. 17. (수) 오후 7시-9시
+where: 대전 TBC 4층 대회의실 412호
+who: 이연희, 안후영
+what: BeeAI 프레임워크로 인공지능 서비스 시작하기
+date:   2019-04-17 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/190417.png
+---
+***  
+
+[발표자료1]({{ "/present_file/AI프렌즈19-04-17-공개용-01.pdf" | absolute_url }})  
+[발표자료2]({{ "/present_file/AI프렌즈19-04-17-공개용-02.pdf" | absolute_url }})  
+
+* 신청 :[https://goo.gl/gpxWB9][link1] (저녁 간식 제공 식수 파악용)  
+
+[link1]:https://goo.gl/gpxWB9
+
+- 모임 : 4월 AI 프렌즈 학술 세미나
+- 일시 : 2019년 4월 17일(15회) 수요일 19:00 ~ 21:00
+- 주제 : 하단 상세안내 참고
+- 장소 : 대덕테크비즈센터(TBC) 4층 대회의실(412호)
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)
+- 대상 : AI에 관심있는 누구나
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)
+- 4월 AI 프렌즈 학술세미나 계획   
+  #4.10 Kaggle 커널 이용방법 및 실습(이유한)   
+  #4.17 BeeAI(비아이) 인공지능 프레임워크 소개 및 다양한 적용 사례(김귀훈/안후영)  
+  #4.24 목소리 변경 인공지능 Tacotron 소개(조희철)  
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
