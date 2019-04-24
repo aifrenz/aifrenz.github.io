@@ -11,8 +11,8 @@ tags: ai-friends update
 image: /images/190417.png
 ---
 ***  
-[발표자료1]({{ "/present_file/AI프렌즈19-04-17-공개용-01.pdf" | absolute_url }})  
-[발표자료2]({{ "/present_file/AI프렌즈19-04-17-공개용-02.pdf" | absolute_url }})  
+[발표자료1]({{ "/present_file/AI_19-04-17-01.pdf" | absolute_url }})  
+[발표자료2]({{ "/present_file/AI_19-04-17-02.pdf" | absolute_url }})  
 
 
 
