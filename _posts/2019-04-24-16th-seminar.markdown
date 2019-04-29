@@ -15,6 +15,12 @@ image: /images/20190424.jpg
 [음성파일]({{ "/present_file/음성파일.zip" | absolute_url }})  
 
 [Moon-타코트론]({{ "/present_file/moon-타코트론.wav" | absolute_url }})  
+[Moon-현충일]({{ "/present_file/moon-현충일.wav" | absolute_url }})
+[Moon-AIFrenz]({{ "/present_file/moon-AIFrenz.wav" | absolute_url }})
+
+[Son-타코트론]({{ "/present_file/Son-타코트론.wav" | absolute_url }})  
+[Son-현충일]({{ "/present_file/Son-현충일.wav" | absolute_url }})
+[Son-AIFrenz]({{ "/present_file/Son-AIFrenz.wav" | absolute_url }})
 
 
 - 모임 : 4월 AI 프렌즈 학술 세미나
