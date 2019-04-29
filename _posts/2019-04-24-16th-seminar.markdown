@@ -8,7 +8,7 @@ what: Tacotron 이 말을 했어요
 date:   2019-04-24 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/20190424.png
+image: /images/20190424.jpg
 ---
 ***  
 [발표자료]({{ "/present_file/Tacotron-AIFrenz-20190424.pdf" | absolute_url }})  
