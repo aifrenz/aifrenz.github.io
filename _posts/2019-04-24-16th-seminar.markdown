@@ -1,0 +1,31 @@
+---
+layout: post
+title:  AI 프렌즈 16회 학술 세미나
+when: 2019. 4. 24. (수) 오후 7시-9시
+where: 대전 TBC 4층 대회의실 412호
+who: 조희철
+what: Tacotron 이 말을 했어요
+date:   2019-04-24 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190424.png
+---
+***  
+[발표자료]({{ "/present_file/Tacotron-AIFrenz-20190424.pdf" | absolute_url }})  
+[음성파일]({{ "/present_file/음성파일.zip" | absolute_url }})  
+
+
+- 모임 : 4월 AI 프렌즈 학술 세미나
+- 일시 : 2019년 4월 24일(16회) 수요일 19:00 ~ 21:00
+- 주제 : 하단 상세안내 참고
+- 장소 : 대덕테크비즈센터(TBC) 4층 대회의실(412호)
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)
+- 대상 : AI에 관심있는 누구나
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
