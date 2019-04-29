@@ -14,6 +14,8 @@ image: /images/20190424.jpg
 [발표자료]({{ "/present_file/Tacotron-AIFrenz-20190424.pdf" | absolute_url }})  
 [음성파일]({{ "/present_file/음성파일.zip" | absolute_url }})  
 
+[Moon-타코트론]({{ "/present_file/moon-타코트론.wav" | absolute_url }})  
+
 
 - 모임 : 4월 AI 프렌즈 학술 세미나
 - 일시 : 2019년 4월 24일(16회) 수요일 19:00 ~ 21:00
