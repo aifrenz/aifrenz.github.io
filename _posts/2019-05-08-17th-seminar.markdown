@@ -8,7 +8,7 @@ what: 딥 러닝으로 무엇을 하고 싶은가?
 date:   2019-05-08 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/190508.jpg
+image: /images/190508.png
 ---
 ***  
 발표제목 : 딥러닝으로 무엇을 하고 싶은가? (얼굴 이미지 편집하는 GAN만들기)  
