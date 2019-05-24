@@ -8,7 +8,7 @@ what: 새로운 세포 현미경 데이터가 AI란 툴을 만났을 때?
 date:   2019-05-22 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/190522.JPG
+image: /images/190522.jpg
 ---
 ***  
 발표제목 : 새로운 세포 현미경 데이터가 AI란 툴을 만났을 때?    
