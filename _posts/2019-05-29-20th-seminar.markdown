@@ -12,7 +12,8 @@ image: /images/20190529.jpg
 ---
 ***  
 발표제목 : 딥러닝을 쉽게 활용하는 지능형 Edge 컴퓨팅 기술?    
-[발표자료]({{ "/present_file/AI프렌즈_김귀훈_발표자료_190529_FIN.pdf" | absolute_url }})  
+[발표자료1]({{ "/present_file/AI프렌즈_김귀훈_발표자료_190529_FIN.pdf" | absolute_url }})  
+[발표자료2]({{ "/present_file/ETRI-Vision-VeeaHub_May2019email.pdf" | absolute_url }})  
 
 - 모임 : 5월 AI 프렌즈 학술 세미나
 - 일시 : 2019년 5월 29일(20회) 수요일 19:00 ~ 21:00
