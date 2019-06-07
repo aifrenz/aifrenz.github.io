@@ -1,0 +1,31 @@
+---
+layout: post
+title:  AI 프렌즈 20회 학술 세미나
+when: 2019. 6. 5. (수) 오후 7시-9시
+where: 대전 TBC 4층 412호
+who: 김예현  
+what: 치과교정학 분야에서의 인공지능 기술의 적용
+date:   2019-06-05 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20190605.jpg
+---
+***  
+발표제목 : 치과교정학 분야에서의 인공지능 기술의 적용  
+발표자 : 김예현 전문의 (서울 클리어치과교정과 치과의원)
+[발표자료1]({{ "/present_file/AI프렌즈21회발표_김예현_190605.pdf" | absolute_url }})  
+ 
+
+- 모임 : 6월 AI 프렌즈 학술 세미나
+- 일시 : 2019년 6월 5일(21회) 수요일 19:00 ~ 21:00
+- 장소 : 대덕테크비즈센터(TBC) 4층 412호
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)
+- 대상 : AI에 관심있는 누구나
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
