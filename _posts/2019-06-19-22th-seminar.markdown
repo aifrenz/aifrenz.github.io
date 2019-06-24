@@ -8,7 +8,7 @@ what: 데이터 사회학, 위키백과 분석
 date:   2019-06-19 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/201900619.png
+image: /images/20190619.png
 ---
 ***  
 데이터 사회학, 위키백과분석 (윤진혁 KISTI)  
