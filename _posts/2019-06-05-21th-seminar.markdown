@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AI 프렌즈 20회 학술 세미나
+title:  AI 프렌즈 21회 학술 세미나
 when: 2019. 6. 5. (수) 오후 7시-9시
 where: 대전 TBC 4층 412호
 who: 김예현  
