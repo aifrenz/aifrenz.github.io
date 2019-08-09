@@ -1,0 +1,31 @@
+---
+layout: post
+title:  AI 프렌즈 25회 학술 세미나
+when: 2019. 8. 7. (수) 오후 7시-9시
+where: 대전 TBC 4층 412호
+who: 서정훈
+what: Self-supervised learning, 돌아보고 살펴보고 내다보기
+date:   2019-08-07 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/190807.jpg
+---
+***  
+Self-supervised leaning, 돌아보고 살펴보고 내다보기 ( 서정훈 SI Analytics )
+[발표자료]({{ "/present_file/Self-supervised learning, 돌아보고 살펴보고 내다보기.pdf" | absolute_url }})  
+
+
+
+- 모임 : 8월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 8월 7일(25회) 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 4층 412호  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
