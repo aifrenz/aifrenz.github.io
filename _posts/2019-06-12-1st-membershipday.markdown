@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AI 프렌즈 1회 Membershipday
+title:  1회 Membershipday
 when: 2019. 6. 12. (수) 오후 7시-9시
 where: 대전 TBC 1층 콜라보홀
 who: AI 프렌즈
