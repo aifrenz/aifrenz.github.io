@@ -8,7 +8,7 @@ what: 스마트 팩토리
 date:   2019-07-10 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/190612.jpg
+image: /images/190710.jpg
 ---
 ***  
 
