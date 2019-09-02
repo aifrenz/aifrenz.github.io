@@ -1,0 +1,35 @@
+---
+layout: post
+title:  AI 프렌즈 26회 학술 세미나
+when: 2019. 8. 21. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 전창욱 (deepNLP)
+what: 자연어 처리의 모든 것
+date:   2019-08-21 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/190821.jpg
+---
+***  
+자연어 처리의 모든 것 ( 전창욱 deepNLP)
+- 자연어 처리 Embedding, LM, Finetuning 방향성과 흐름  
+- 사람을 뛰어넘는 자연어처리  
+- 앞으로 자연어처리 뜨거운 방향  
+
+[발표자료]({{ "/present_file/AI_Friend_0821.pdf" | absolute_url }})  
+
+
+
+- 모임 : 8월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 8월 21일(26회) 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
