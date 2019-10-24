@@ -5,7 +5,7 @@ when: 2019. 10. 16. (수) 오후 7시-9시
 where: 대전 TBC 1층 콜라보홀
 who: 윤성호(마키나락스)
 what: 산업문제 해결을 위한 AI
-date:   2019-08-21 19:00:00
+date:   2019-10-16 19:00:00
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20191016.jpg
