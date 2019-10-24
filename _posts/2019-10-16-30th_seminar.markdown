@@ -1,0 +1,35 @@
+---
+layout: post
+title:  AI 프렌즈 30회 학술 세미나
+when: 2019. 10. 16. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 윤성호(마키나락스)
+what: 산업문제 해결을 위한 AI
+date:   2019-08-21 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20191016.jpg
+---
+***  
+산업문제 해결을 위한 AI ( 윤성호 마키나락스)
+- Why AI for industrial applications?  
+- REAL-WORLD AI challenges & Cases  
+- Why startup in B2B AI, any chance to win?  
+
+[발표자료]({{ "/present_file/[윤성호] AI프렌즈-20191011 배포.pdf" | absolute_url }})  
+
+
+
+- 모임 : 10월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 10월 16일(30회) 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
