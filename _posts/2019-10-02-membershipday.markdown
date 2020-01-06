@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AI 프렌즈 멤버쉽 DAY
+title:  AI 프렌즈 10월 멤버쉽 DAY
 when: 2019. 10. 2. (수) 오후 7시-9시
 where: 대전 TBC 1층 콜라보홀
 who: 유용균
