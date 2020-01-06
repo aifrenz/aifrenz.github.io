@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AI프렌즈 10월 멤버쉽데이 2nd
+title:  AI프렌즈 10월 2nd 멤버쉽데이
 when: 2019. 10. 23. (수) 오후 7시-9시
 where: 대전 TBC 1층 콜라보홀
 who: 민재옥/손영성
