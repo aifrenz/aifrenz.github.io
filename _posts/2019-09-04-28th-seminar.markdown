@@ -8,7 +8,7 @@ what: 강화학습과 시뮬레이션을 이용한 최적 대피 경로 예측
 date:   2019-09-4 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/190904.png
+image: /images/190904.jpg
 ---
 ***  
 강화학습과 시뮬레이션을 이용한 최적 대피 경로 예측 (김현철 i CAPTAIN)  
