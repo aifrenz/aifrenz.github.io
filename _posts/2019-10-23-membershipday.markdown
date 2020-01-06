@@ -16,6 +16,8 @@ image: /images/191023.jpg
 장소 : 대전 TBC 1층 콜라보홀  
 
 - 산업혁명 역사로 살펴보는 인공지능 기술 발전 방향 (ETRI 손영성)
+[발표자료]({{ "/present_file/191023_손영성.pdf" | absolute_url }})  
+
 - 특허분야 인공지능 적용 사례 (KIPI 민재옥)
 
 
