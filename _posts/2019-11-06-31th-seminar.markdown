@@ -1,0 +1,31 @@
+---
+layout: post
+title:  AI 프렌즈 31회 학술 세미나
+when: 2019. 11. 6. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 박준영
+what: 그래프 뉴럴넷과 강화학습을 이용한 job_shop 스케쥴링 프레임 워크
+date:   2019-11-06 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/191106.jpg
+---
+***  
+그래프 뉴럴넷과 강화학습을 이용한 job_shop 스케쥴링 프레임 워크 ( 박준영 KAIST 산업공학과 )
+- 조합최적화 문제의 일종인 Job-shop scheduling problem(JSSP)을 강화학습을 이용해서 해결  
+- 학습된 GNN 스케쥴러는 학습시에 보여지지 않는 새로운 JSSP 문제에 대해 부가적 학습없이 탁월한 일반화 성능을 보임  
+
+
+- 모임 : 11월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 11월 6일(31회) 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
