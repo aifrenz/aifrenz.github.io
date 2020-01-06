@@ -8,7 +8,7 @@ what: 중국의 과학기술혁신과 인공지능 굴기
 date:   2019-12-10 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/20191210.jpg
+image: /images/191210.jpg
 ---
 ***  
 중국의 과학기술혁신과 인공지능 굴기 ( 백서인 STEP1 )
