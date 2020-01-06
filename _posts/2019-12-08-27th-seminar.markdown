@@ -1,0 +1,34 @@
+---
+layout: post
+title:  AI 프렌즈 27회 학술 세미나
+when: 2019. 8. 28. (수) 오후 7시-9시
+where: 대전 TBC 4층 412호
+who: 이동민
+what: 강화학습 입문 특강
+date:   2019-08-28 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/190828.jpg
+---
+***  
+강화학습 입문특강 ( 이동민/한양대 )
+발표자료: [https://github.com/dongminlee94/AIFrenz-DQN][link1]
+
+
+
+- 모임 : 8월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 8월 7일(25회) 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 4층 412호  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
+
+
+[link1]: https://github.com/dongminlee94/AIFrenz-DQN
