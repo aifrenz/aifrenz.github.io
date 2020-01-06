@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Membershipday
+title:  AI 프렌즈 9월 멤버쉽데이 
 when: 2019. 9. 25. (수) 오후 7시-9시
 where: 대전 대덕테크비즈센터(TBC) 1층 콜라보홀
 who: 윤인용/이유한
