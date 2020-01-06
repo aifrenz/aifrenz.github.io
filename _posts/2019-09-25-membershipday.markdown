@@ -8,7 +8,7 @@ what: 인공지능 대회 입상 축하 파티
 date:   2019-09-25 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/190925.jpg
+image: /images/20190925.jpg
 ---
 ***  
 
