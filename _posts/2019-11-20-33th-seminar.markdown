@@ -11,7 +11,7 @@ tags: ai-friends update
 image: /images/191120.jpg
 ---
 ***  
-Mathematica 소개: 딥러닝예서 예술까지 ( 이주행 ETRI )
+Mathematica 소개: 딥러닝예서 예술까지 ( 이주행 ETRI )  
 [자료][https://www.dropbox.com/s/pls2mdq4i8q0hxn/Mathematica%20Tutorial%202019.nb?dl=0][link1]
 
 
