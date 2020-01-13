@@ -1,0 +1,34 @@
+---
+layout: post
+title:  AI 프렌즈 36회 학술 세미나
+when: 2020. 1. 8. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 이정원
+what: 사피엔스와 AI
+date:   2020-01-08 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/200108.jpg
+---
+***  
+사피엔스와 AI ( 이정원 SI Analytics )
+- 인간은 분류기로 태어난다  
+- 인간은 인과율 제조기로 태어난다  
+- 인간의 총합과 침팬지의 총합은 매우 다르다  
+
+
+
+
+- 모임 : 1월 AI 프렌즈 학술 세미나  
+- 일시 : 2020년 1월 8일(36회) 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+- 차후일정 : 1.15 멤버쉽데이 (손영성 ETRI)  
+            1.22 AI로 작곡한 음악 (모두연 루바토랩 박수철, 소준섭)  
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
