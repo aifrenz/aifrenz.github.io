@@ -1,0 +1,32 @@
+---
+layout: post
+title:  AI 프렌즈 11월 멤버쉽데이
+when: 2019. 11. 27. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 차금강, 유용균
+what: 멤버쉽데이
+date:   2019-11-27 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/191127.jpg
+---
+***  
+세계최초 임팔라 구현 (차금강)  
+아동그림 심리분석, AI작곡 (유용균)  
+ 
+
+
+
+- 모임 : 11월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 11월 27일 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀   
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
