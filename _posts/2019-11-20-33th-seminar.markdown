@@ -1,0 +1,32 @@
+---
+layout: post
+title:  AI 프렌즈 33회 학술 세미나
+when: 2019. 11. 20. (수) 오후 7시-9시
+where: 대전 한국화학연구원 디딤돌 플라자 3층 교육장 
+who: 이주행
+what: Mathematica 소개
+date:   2019-11-20 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/191120.jpg
+---
+***  
+Mathematica 소개: 딥러닝예서 예술까지 ( 이주행 ETRI )
+[자료][https://www.dropbox.com/s/pls2mdq4i8q0hxn/Mathematica%20Tutorial%202019.nb?dl=0][link1]
+
+
+
+- 모임 : 11월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 11월 20일(33회) 수요일 19:00 ~ 21:00  
+- 장소 : 대전 한국화학연구원 디딤돌 플라자 3층  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
+
+[link1]:https://www.dropbox.com/s/pls2mdq4i8q0hxn/Mathematica%20Tutorial%202019.nb?dl=0
