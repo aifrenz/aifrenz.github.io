@@ -1,0 +1,33 @@
+---
+layout: post
+title:  AI 프렌즈 2019 쫑파티
+when: 2019. 12. 17. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: AI 프렌즈
+what: AI프렌즈 2019 쫑파티
+date:   2019-12-17 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/191217.jpg
+---
+***  
+AI프렌즈 쫑파티  
+- 2019년 AI 프렌즈 발자취를 따라 한해를 되돌아 보며  
+- NeurIPS 2019를 다녀와서 느낀 점 나누기  
+- AI 프렌즈는 2020년 어떻게 하면 간지날지??  
+
+
+
+- 모임 : 12월 AI 프렌즈 학술 세미나  
+- 일시 : 2019년 12월 17일 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+             (단, 이번 시즌은 최소 MNIST정도는 돌려보신 분들을 대상으로 합니다.)  
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
