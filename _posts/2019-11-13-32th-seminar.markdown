@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  AI 프렌즈 25회 학술 세미나
+title:  AI 프렌즈 32회 학술 세미나
 when: 2019. 11. 13. (수) 오후 7시-9시
 where: 대전 TBC 1층 콜라보홀
-who: 이정원 & 이주행 (feat. 김승현)
-what: 강화학습 튜토리얼: 서튼 책 씹어먹고 그린 랜드스케이프
+who: 이정원, 이주행, 김승현
+what: 강화학습 튜토리얼  
 date:   2019-11-13 19:00:00
 categories: ai-friends update
 tags: ai-friends update
