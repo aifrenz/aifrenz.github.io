@@ -14,7 +14,8 @@ image: /images/ai_friends.jpg
 
 ## 20200115 멤버쉽데이  
 
-사물지능, '망한'기술에서 '유망한' 기술로 (HelloDD.com)  
+사물지능, '망한'기술에서 '유망한' 기술로 (HelloDD.com)   
+
 [https://www.hellodd.com/?md=news&mt=view&pid=70820][link1]  
 
 ***
