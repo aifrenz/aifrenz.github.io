@@ -11,9 +11,13 @@ image: /images/ai_friends.jpg
 # AI 프렌즈 프로그램 안내
 
 ***  
-2020.1.15 멤버쉽데이  
-사물지능, '망한'기술에서 '유망한' 기술로 (HelloDD.com)
-[https://www.hellodd.com/?md=news&mt=view&pid=70820][link1]
+
+## 20200115 멤버쉽데이  
+
+사물지능, '망한'기술에서 '유망한' 기술로 (HelloDD.com)  
+[https://www.hellodd.com/?md=news&mt=view&pid=70820][link1]  
+
+***
 
 
 ## 1. 정기 심포지엄
