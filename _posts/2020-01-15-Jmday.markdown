@@ -1,0 +1,34 @@
+---
+layout: post
+title:  AI 프렌즈 멤버쉽데이
+when: 2020. 1. 15. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 김태영, 손영성
+what: 멤버쉽데이
+date:   2020-01-15 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20200115.png
+---
+***  
+발표1: AIFactory에 맡기세요 ( 김태영 AIFactory )
+[발표자료]({{ "/present_file/20200115_김태영.pdf" | absolute_url }})  
+
+발표2: 사물지능, 미완의 꿈 ( 손영성 ETRI )
+[발표자료]({{ "/present_file/20200115_손영성.pdf" | absolute_url }})  
+
+
+
+- 모임 : 1월 AI 프렌즈 멤버쉽데이  
+- 일시 : 2020년 1월 15일 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+          
+
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
