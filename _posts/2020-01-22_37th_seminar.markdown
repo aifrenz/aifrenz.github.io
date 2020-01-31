@@ -1,0 +1,36 @@
+---
+layout: post
+title:  AI 프렌즈 37회 학술 세미나
+when: 2020. 1. 22. (수) 오후 7시-9시
+where: 대전 TBC 1층 콜라보홀
+who: 박수철, 소준섭
+what: AI로 작곡한 음악
+date:   2020-01-22 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20200122.jpg
+---
+***  
+AI로 작곡한 음악 ( 박수철, 소준섭 모두의연구소 루바토랩 )
+-현재 음악이 만들어지고 있는 과정과 그 안에 AI를 적용하는 방법  
+-Wavenet, VQ-VAE, Sparse Attention, Melnet 등 wave 데이터 기반 음악생성 모델    
+-time domain과 frequency domain 상의 데이터 표현, long-term dependencies problem  
+[발표자료1_박수철]({{ "/present_file/20200122_박수철.pdf" | absolute_url }})  
+[발표자료2_소준섭]({{ "/present_file/20200122_소준섭.pdf" | absolute_url }})  
+
+
+
+
+
+- 모임 : 1월 AI 프렌즈 학술 세미나  
+- 일시 : 2020년 1월 22일(37회) 수요일 19:00 ~ 21:00  
+- 장소 : 대덕테크비즈센터(TBC) 1층 콜라보홀  
+             (주소 : 대전 유성구 대덕대로 593, http://naver.me/GEfICdhv)  
+- 대상 : AI에 관심있는 누구나  
+- 차후일정 : 1.29 AI기반 신약개발 (KAIST, AITRICS 류성옥)  
+
+
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
