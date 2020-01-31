@@ -8,7 +8,7 @@ what: AI로 작곡한 음악
 date:   2020-01-22 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/20200122.jpg
+image: /images/20200122.png
 ---
 ***  
 AI로 작곡한 음악 ( 박수철, 소준섭 모두의연구소 루바토랩 )
