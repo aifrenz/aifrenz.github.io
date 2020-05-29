@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to AI Friends!"
+title:  "Welcome to AiFrenz!"
 date:   2018-12-01 23:52:07
 what: AI 프렌즈 프로그램 안내
 categories: ai-friends update
