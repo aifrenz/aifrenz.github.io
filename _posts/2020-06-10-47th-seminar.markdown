@@ -8,7 +8,7 @@ what: 강화학습 환경을 직접만들어보고 싶으신 가요? Unity ML-ag
 date:   2020-06-20 19:00:00
 categories: ai-friends update
 tags: ai-friends update
-image: /images/20200610.png
+image: /images/20200610.jpg
 ---
 ***  
 강화학습 환경을 직접만들어보고 싶으신 가요? Unity ML-agents와 함께하세요! ( 민규식 / 한양대 )
