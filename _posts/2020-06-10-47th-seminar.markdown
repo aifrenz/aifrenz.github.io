@@ -1,0 +1,29 @@
+---
+layout: post
+title:  AI 프렌즈 47회 학술 세미나
+when: 2020. 6. 20. (수) 오후 7시-9시
+where: 유튜브 방송 AI프렌즈 채널
+who: 민규식
+what: 강화학습 환경을 직접만들어보고 싶으신 가요? Unity ML-agents와 함께하세요!
+date:   2020-06-20 19:00:00
+categories: ai-friends update
+tags: ai-friends update
+image: /images/20200610.png
+---
+***  
+강화학습 환경을 직접만들어보고 싶으신 가요? Unity ML-agents와 함께하세요! ( 민규식 / 한양대 )
+-새롭게 출시된 ML-Agents 1.0에 대한 소개  
+-ML-Agents를 이용한 인공지능 에이전트 개발 사례 및 연구 소개  
+[발표자료]({{ "/present_file/AI프렌즈세미나_ML-Agents.pdf" | absolute_url }})  
+[유튜브] https://youtu.be/APMAHDRNv2I [link]
+ 
+
+
+- 대상 : AI에 관심있는 누구나  
+- 후원 : 연구개발특구진흥재단  
+- 문의 : 한국원자력연구원 유용균 박사(yoyogo@gmail.com)  
+             한국전자통신연구원 김귀훈 박사(kiwi7580@gmail.com)  
+- 사이트 : https://aifrenz.github.io/ 
+
+
+[link]:     https://youtu.be/APMAHDRNv2I
