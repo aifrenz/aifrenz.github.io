@@ -16,7 +16,7 @@ GPT-3 세미나(부제: 이게 된다고?) ( 임준호 / ETRI )
 -GPT-3로 무엇이 가능해졌나요?  
 [발표자료]({{ "/present_file/0812 - GPT-3 세미나_ETRI임준호.pdf" | absolute_url }})  
 [유튜브] https://www.youtube.com/watch?v=MV1l2JPAxVY [link]
- 
+
 
 
 - 대상 : AI에 관심있는 누구나  
