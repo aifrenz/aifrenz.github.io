@@ -1,16 +1,33 @@
 ---
 layout: post
 title:  "AI 프렌즈 51회 학술 세미나"
+when: 2020. 8. 12. (수) 오후 7시-9시
+where: 유튜브 방송 AI프렌즈 채널
+who: 임준호
+what: GPT-3 세미나, 부제:이게 된다고?
 date:   2020-08-12 19:00:00
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20200814.png
 ---
 
+***  
+GPT-3 세미나, 부제: 이게 된다고? ( 임준호 / ETRI )
+- GPT-3가 무엇인가요?
+- GPT-3로 무엇이 가능해졌나요?
+- GPT-3의 한계는 무엇일까요?
 
+[발표자료]({{ "/present_file/0812 - GPT-3 세미나_ETRI임준호.pdf" | absolute_url }})  
+[유튜브]  https://www.youtube.com/watch?v=MV1l2JPAxVY [link]
+ 
 
 후원: 연구개발특구진흥재단, 대덕넷   
 문의: ai.friends.seminar@gmail.com,
 [Ai프렌즈 카카오톡 오픈 채팅방][kakao_ai],
 [페이스북 홈페이지][facebook_ai]
 
+
+
+
+
+[link]:      https://www.youtube.com/watch?v=MV1l2JPAxVY
