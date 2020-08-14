@@ -4,12 +4,13 @@ title:  AI 프렌즈 51회 학술 세미나
 when: 2020. 8. 12. (수) 오후 7시-9시
 where: 유튜브 방송 AI프렌즈 채널
 who: 임준호
-what: GPT-3 세미나(부제: 이게 된다고?)
+what: GPT-3 세미나, 부제: 이게 된다고?
 date:   2020-08-12 19:00:00
 categories: ai-friends update
 tags: ai-friends update
 image: /images/20200814.png
 ---
+
 
 
 ***  
