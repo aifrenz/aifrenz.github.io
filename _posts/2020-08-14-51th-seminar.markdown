@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  AI 프렌즈 51회 학술 세미나
@@ -10,6 +11,8 @@ categories: ai-friends update
 tags: ai-friends update
 image: /images/20200814.png
 ---
+
+
 ***  
 GPT-3 세미나(부제: 이게 된다고?) ( 임준호 / ETRI )  
 -GPT-3이 무엇인가요?  
