@@ -11,6 +11,11 @@ image: /images/ai_friends.jpg
 # AI 프렌즈 프로그램 안내
 
 ***  
+AI 프렌즈 세미나는 현재 유투브로 공유됩니다. 아래 링크를 참고하세요!  
+[https://www.youtube.com/channel/UC2L1DgDMD5pJ-35G47Objfw][link0]  
+
+2022년 1월 현재 AiFrenz 홈페이지는 다음과 같습니다.
+[aifrenz.org][link2]
 
 ## 20200115 멤버쉽데이  
 
@@ -128,3 +133,5 @@ RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series 
 [kakao_ai]:     https://open.kakao.com/o/ggewxi2
 [facebook_ai]:  https://www.facebook.com/groups/aifriend/
 [link1]: https://www.hellodd.com/?md=news&mt=view&pid=70820
+[link0]: https://www.youtube.com/channel/UC2L1DgDMD5pJ-35G47Objfw
+[link2]: aifrenz.org
