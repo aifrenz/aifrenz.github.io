@@ -134,4 +134,4 @@ RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series 
 [facebook_ai]:  https://www.facebook.com/groups/aifriend/
 [link1]: https://www.hellodd.com/?md=news&mt=view&pid=70820
 [link0]: https://www.youtube.com/channel/UC2L1DgDMD5pJ-35G47Objfw
-[link2]: aifrenz.org
+[link2]: https://aifrenz.notion.site/
